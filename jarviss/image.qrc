@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../UI/bg2.jpg</file>
+        <file>../UI/circle.gif</file>
+        <file>../UI/exit.png</file>
+        <file>../UI/fram1.png</file>
+        <file>../UI/frame1_flip.png</file>
+        <file>../UI/frame10.jpg</file>
+        <file>../UI/ironman1.gif</file>
+        <file>../UI/ironman3.gif</file>
+        <file>../UI/ironman3_flipped.gif</file>
+        <file>../UI/lines1.gif</file>
+        <file>../UI/loading.gif</file>
+        <file>../UI/loading.mp4</file>
+        <file>../UI/powersource.gif</file>
+        <file>../UI/quite.png</file>
+        <file>../UI/ringJar.gif</file>
+        <file>../UI/start.gif.gif</file>
+        <file>../UI/Sujith (2).gif</file>
+        <file>../UI/Sujith.gif</file>
+        <file>../UI/Sujith.png</file>
+        <file>../UI/login.png</file>
+    </qresource>
+</RCC>
