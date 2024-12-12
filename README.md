@@ -80,6 +80,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Contact
 Hariom Giri - [Email](sureshgiri469@gmail.com)
 
-Project Link: [https://github.com/yourusername/Pragya-Kalp](https://github.com/yourusername/Pragya-Kalp)
+
 ```
 
