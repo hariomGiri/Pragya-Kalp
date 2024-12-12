@@ -1,2 +1,36 @@
-pyQt5
+# Core Python Libraries
+pyqt5==5.15.10
+python-dotenv==1.0.0
 
+# Speech and Audio Processing
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+
+# Web and Network
+requests==2.31.0
+wikipedia==1.4.0
+webbrowser==0.5
+pywhatkit==5.4
+
+# System Interaction
+pyautogui==0.9.54
+pyjokes==0.6.0
+
+# AI and Machine Learning
+face-recognition==1.3.0
+opencv-python==4.7.0.72
+numpy==1.24.3
+
+# Optional but Recommended
+openai==0.27.8  # For potential future AI integrations
+groq==0.3.0     # If you want to use Groq API
+
+# Development and Debugging
+pytest==7.3.1   # For testing
+pylint==2.17.4  # For code quality checks
+
+# Additional Utilities
+keyboard==0.13.5
+mouse==0.7.1
+
+pip install -r requirements.txt
